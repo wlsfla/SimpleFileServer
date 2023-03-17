@@ -1,3 +1,5 @@
+// target : windows 10 x64
+
 package main
 
 import (
