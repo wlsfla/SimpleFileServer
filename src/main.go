@@ -12,6 +12,7 @@ func main() {
 	portNumber := 5555
 	dirpath := "."
 
+	fmt.Println()
 	fmt.Println("[*] Start Server")
 	fmt.Printf("[*] listening on %v\n", portNumber)
 
